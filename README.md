@@ -222,7 +222,8 @@ class third_derived_class: public base_class
 
 - **Multilevel Inheritance Algorithm**:
 
-![exp14_3](https://github.com/Purvansha022609/Inheritance/assets/139473344/4edbc885-50bb-464a-af24-a914da523e2a)
+![image](https://github.com/RitvikArora22070123094/Types_of_Inheritance/assets/139522395/a5ca182a-53b5-4029-ab11-4075d7ee30f6)
+
 
   
 - **Hierarchical Inheritance Algorithm**:
