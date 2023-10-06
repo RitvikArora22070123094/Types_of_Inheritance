@@ -107,7 +107,7 @@ class Ritvik
     public:
     Ritvik()
     {
-        cout<<"This is a Ritvik  \n";
+        cout<<"This is Ritvik  \n";
     }
 };
 class name: public Ritvik{
@@ -123,7 +123,7 @@ int main()
 
 };
 /*Output
-This is a Ritvik  
+This is Ritvik  
 */
 
 /*Exp_14
