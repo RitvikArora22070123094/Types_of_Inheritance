@@ -211,13 +211,13 @@ class third_derived_class: public base_class
 - **Single Inheritance Algorithm**:
 
 
-![exp14_1](https://github.com/Purvansha022609/Inheritance/assets/139473344/a534d48d-ce91-4cfb-b38e-a7e9b0afe7fb)
+![image](https://github.com/RitvikArora22070123094/Types_of_Inheritance/assets/139522395/5596a5e8-6f37-4624-817d-272545bdbf77)
+
 
 
 - **Multiple Inheritance**
 
-![exp14_2](https://github.com/Purvansha022609/Inheritance/assets/139473344/dc8ad8e3-e2b6-4a1e-9b21-eb805c7cdf2b)
-
+![image](https://github.com/RitvikArora22070123094/Types_of_Inheritance/assets/139522395/bac7e4de-d512-41cc-affa-66abbe8bacac)
 
 
 - **Multilevel Inheritance Algorithm**:
