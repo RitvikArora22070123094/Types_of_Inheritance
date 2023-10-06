@@ -217,7 +217,7 @@ class third_derived_class: public base_class
 
 - **Multiple Inheritance**
 
-![image](https://github.com/RitvikArora22070123094/Types_of_Inheritance/assets/139522395/bac7e4de-d512-41cc-affa-66abbe8bacac)
+![image](https://github.com/RitvikArora22070123094/Types_of_Inheritance/assets/139522395/6e693f27-f985-4792-94ab-bff34d5b35ca)
 
 
 - **Multilevel Inheritance Algorithm**:
